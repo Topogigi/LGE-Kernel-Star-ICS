@@ -190,7 +190,7 @@ static const struct tegra_emc_table star_emc_tables_hynix_300Mhz[] = {
     },
     {
 //                  0x20,   /* Rev 2.0 */
-		.rate = 150000,   /* SDRAM frquency */
+		.rate = 166000,   /* SDRAM frquency */
 //                  1000,   /* EMC core voltage */
 //                    46,   /* Number of EMC parameters below */
 		.regs = {
@@ -244,7 +244,7 @@ static const struct tegra_emc_table star_emc_tables_hynix_300Mhz[] = {
     },
     {
 //                  0x20,   /* Rev 2.0 */
-		.rate = 300000,   /* SDRAM frquency */
+		.rate = 332000,   /* SDRAM frquency */
 //                  1200,   /* EMC core voltage */
 //                    46,   /* Number of EMC parameters below */
 		.regs = {
